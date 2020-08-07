@@ -41,5 +41,5 @@
 <img align="left" alt="msa404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msa404&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/mosayed86657536
-[youtube]: https://www.youtube.com/channel/UCafLEVsfkiQ_dV5cHfK9G0Q
+[ytchannel]: https://www.youtube.com/channel/UCafLEVsfkiQ_dV5cHfK9G0Q
 [instagram]: https://www.instagram.com/m_ansari404/
