@@ -1,5 +1,5 @@
 ### Hi there , I'm Mohamed  - aka [msa404][ytchannel]
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ## I'm a Student, Developer, Pen-testing student!
 - Iam currently working on a [c++ tutorial][ytchannel]!
 - Iam currently learning CCNA and DS & Algorithms.
@@ -31,7 +31,7 @@
 <img align="left" alt="C" width="26px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" />
 <br />
 <br />
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -39,7 +39,6 @@
 - [C++ For Begginers #1](https://www.youtube.com/watch?v=dU3vHWz2Iag)
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="msa404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msa404&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/mosayed86657536
 [ytchannel]: https://www.youtube.com/channel/UCafLEVsfkiQ_dV5cHfK9G0Q
