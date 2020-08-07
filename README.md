@@ -31,7 +31,7 @@
 <img align="left" alt="C" width="26px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" />
 <br />
 <br />
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
