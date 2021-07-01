@@ -3,16 +3,15 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## I'm a Student, Developer, Pen-testing student!
-- Iam currently working on a [c++ tutorial][ytchannel]!
-- Iam currently learning CCNA and DS & Algorithms.
-- 2020 Goals: Be an CCNA,C++ certified and to learn russian.
-- Fun Fact: I love photography and swimming and gaming.
+- Iam Working on Python Course on my yt channel
+- Fun Fact: I love photography,swimming and gaming.
 
 ### Connect with me:
 
 [<img align="left" alt="msa404 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][ytchannel]
-[<img align="left" alt="mosayed86657536 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="m_ansari2004 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="@alansarijr_
+ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="elansarimohamed_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 </br>
 
@@ -37,11 +36,13 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [C++ For Begginers #2](https://www.youtube.com/watch?v=DxDQbnVz1sA)
-- [C++ For Begginers #1](https://www.youtube.com/watch?v=dU3vHWz2Iag)
+- [Python Course #6 (control flow statments)
+](https://www.youtube.com/watch?v=x_qpiprxd5I)
+- [Python Course #5 (variable naming and indentation)
+](https://www.youtube.com/watch?v=ystD8uysYXk)
 <!-- YOUTUBE:END -->
 
 
-[twitter]: https://twitter.com/mosayed86657536
+[twitter]: https://twitter.com/alansarijr_
 [ytchannel]: https://www.youtube.com/channel/UCafLEVsfkiQ_dV5cHfK9G0Q
-[instagram]: https://www.instagram.com/m_ansari404/
+[instagram]: https://www.instagram.com/elansarimohamed_/
