@@ -39,8 +39,7 @@
 - [Python Course #7 (dictionaries)
 
 ](https://www.youtube.com/watch?v=ystD8uysYXk)
-- [Python Course #6 (control flow statments)
-](https://www.youtube.com/watch?v=x_qpiprxd5I)
+- [Python Course #6 (control flow statments)](https://www.youtube.com/watch?v=x_qpiprxd5I)
 
 <!-- YOUTUBE:END -->
 
