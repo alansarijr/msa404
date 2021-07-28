@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, Pen-testing student!
 - Iam Working on Python Course on my yt channel
-- Fun Fact: I love photography,swimming and gaming.
+- Fun Fact: I love reading,walking and gaming.
 
 ### Connect with me:
 
