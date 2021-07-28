@@ -36,13 +36,15 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python Course #7 (dictionaries)
+
+](https://www.youtube.com/watch?v=ystD8uysYXk)
 - [Python Course #6 (control flow statments)
 ](https://www.youtube.com/watch?v=x_qpiprxd5I)
-- [Python Course #5 (variable naming and indentation)
-](https://www.youtube.com/watch?v=ystD8uysYXk)
+
 <!-- YOUTUBE:END -->
 
 
 [twitter]: https://twitter.com/alansarijr_
 [ytchannel]: https://www.youtube.com/channel/UCafLEVsfkiQ_dV5cHfK9G0Q
-[instagram]: https://www.instagram.com/elansarimohamed_/
+[instagram]: https://www.instagram.com/tareqelansari/
